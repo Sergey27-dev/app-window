@@ -5,7 +5,6 @@ cd src
 javac app-window.java 
 mv *.class ../out 
 cd ../out 
-java app-window
 
 Для запуска собранной программы необходимо наличие Java Runtime Environment не ниже версии 8, который доступен по ссылки "https://java.com/ru/download/".
 
